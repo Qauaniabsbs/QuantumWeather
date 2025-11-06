@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Қосымша дизайн (қаласаң) */
+body {
+  background: linear-gradient(135deg, #1e3a8a, #0ea5e9);
+  color: white;
+  font-family: 'Inter', sans-serif;
+  min-height: 100vh;
+}
